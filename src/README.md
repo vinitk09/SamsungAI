@@ -1,3 +1,3 @@
 # Source Code
 
-The complete project source code must be added to this folder.
+The complete Source code is added in the src folder. 
