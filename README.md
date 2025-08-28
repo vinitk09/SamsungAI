@@ -3,7 +3,7 @@
 - **Problem Statement** - *On-Device Multi-Agent System for Behavior-Based Anomaly & Fraud Detection*
 - **Team name** - *Nexon*
 - **Team members (Names)** - *Member 1 - Vinit Kumar, Member 2 - Kanak Kumari*
-- **Demo Video Link** - *(Upload the Demo video on Youtube as a public or unlisted video and share the link. Google Drive uploads or any other uploads are not allowed.)*
+- **Demo Video Link** - *https://youtu.be/o3Mo6j8vCHM*
 
 
 ### Project Artefacts
