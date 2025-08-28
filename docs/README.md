@@ -80,7 +80,7 @@ The system is architected as a decentralized network of agents communicating via
 **Running the Application:**
 
 1. Run the app on a Android device provided by the Android Studio.
-2. Select JDK 11 which i provided in the Android Studio and wait till all the files get downloaded. Please make sure all the files gets downloaded first. 
+2. Select JDK 11 which is provided in the Android Studio and wait till all the files get downloaded. Please make sure all the files gets downloaded first. 
 3. The main dashboard will appear, showing the status of each agent.
 
 ## 6. User Guide
