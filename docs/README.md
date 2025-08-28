@@ -72,15 +72,16 @@ The system is architected as a decentralized network of agents communicating via
 
 **Setup:**
 
-1. Clone the repository: `git clone <your-repo-link>`
-2. Open the project in Android Studio.
+1. Clone the repository: `https://github.com/vinitk09/SamsungAI.git`
+2. Move to the src folder and open it in Android Studio.
 3. Ensure the TensorFlow Lite model file, `model.tflite`, is located in the `app/src/main/assets/` directory.
-4. Build the project (Build > Make Project).
+
 
 **Running the Application:**
 
-1. Run the app on a physical Android device.
-2. The main dashboard will appear, showing the status of each agent.
+1. Run the app on a Android device provided by the Android Studio.
+2. Select JDK 11 which i provided in the Android Studio and wait till all the files get downloaded. Please make sure all the files gets downloaded first. 
+3. The main dashboard will appear, showing the status of each agent.
 
 ## 6. User Guide
 
